@@ -31,4 +31,4 @@ Final Project for *Data Structure* 2018 Fall @ Fudan University, by [Zuobai Zhan
 
 ### [KDD-Cup-2012-Track-1-Solution](https://github.com/Oxer11/KDD-Cup-2012-Track-1-Solution)
 
-Final Project for *Data Mining* 2019 Spring @ Fudan University, by [Zuobai Zhang](https://oxer11.github.io/)
+Final Project for *Data Mining Technology* 2019 Spring @ Fudan University, by [Zuobai Zhang](https://oxer11.github.io/)
