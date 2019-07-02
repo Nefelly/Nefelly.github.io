@@ -1,17 +1,17 @@
 # main links links
 main:
-  - title: "PUBLICATIONS"
+  - title: "Publications"
     url: /publications/
 
-  - title: "RESEARCH"
+  - title: "Research"
     url: /research/    
 
-  - title: "PROJECT"
+  - title: "Project"
     url: /project/    
     
-  - title: "AWARDS"
+  - title: "Awards"
     url: /awards/
         
-  - title: "BLOG"
+  - title: "Blog"
     url: /blog/
 
