@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About"
+title: "Projects"
+excerpt: "Projects"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /projects/
+  - /projects.html
 ---
 
 ## INTRODUCTION
