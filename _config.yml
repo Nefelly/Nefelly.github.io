@@ -175,26 +175,29 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  project:
     output: true
     permalink: /:collection/:path/
-  talks:
+  awards:
+    output: true
+    permalink: /:collection/:path/
+  blog:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _posts
+  # _blog
   - scope:
       path: ""
-      type: posts
+      type: blog
     values:
       layout: single
       author_profile: true
