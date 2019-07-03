@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-### [Mini-CSRanking: Mini-combination of CSRankings, GoogleScholar and DBLP](https://github.com/Oxer11/Mini-CSRanking)
+[Mini-CSRanking: Mini-combination of CSRankings, GoogleScholar and DBLP](https://github.com/Oxer11/Mini-CSRanking)
 
 Mid-term Project for *Intoduction to Database* 2019 Spring @ Fudan University, by [Xinyi Zhou](https://github.com/veghen) and [Zuobai Zhang](https://oxer11.github.io/)
 
