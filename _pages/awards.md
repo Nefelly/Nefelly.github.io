@@ -10,7 +10,7 @@ author_profile: true
 - **First Prize**, National Olympiad in Informatics, Shandong Division, *2014*.
 - **Bronze Medal**, Asia-Pacific Informatics Olympiad in China District, *2015*.
 - **First Prize(2nd place)**, National Olympiad in Informatics, Shandong Division, *2015*.
-- **Gold Medal**, Winter Camp of National Olympiad in Informatics, *2016*.
+- **Gold Medal**, China National Olympiad in Informatics Winter Camp (NOI Winter Camp), *2016*.
 - **Bronze Medal**, Asia-Pacific Informatics Olympiad in China District, *2016*.
 - **Bronze Medal**, Chinese Team Selection Contest, *2016*.
 - **Silver Medal**, National Olympiad in Informatics, National Finals, *2016*.

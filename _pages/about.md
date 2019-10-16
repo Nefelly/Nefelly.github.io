@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am  a sophomore student at the school of Computer Science at Fudan University, China. Currently, I am ranked as the 1st out of 145 students in the department with GPA 3.92 / 4.00(Major GPA: 4.00 / 4.00) and  I'm a member of Shanghai Key Laboratory of Intelligent Information Processing, advised by [Prof. Zhongzhi Zhang](http://homepage.fudan.edu.cn/zhangzz/). My research interests include graph algorithms, social networks and network science.
+I am  a junior student at the school of Computer Science at Fudan University, China. Currently, I am ranked as the 1st out of 145 students in the department with GPA 3.92 / 4.00(Major GPA: 4.00 / 4.00) and  I'm a member of Shanghai Key Laboratory of Intelligent Information Processing, advised by [Prof. Zhongzhi Zhang](http://homepage.fudan.edu.cn/zhangzz/). My research interests include graph algorithms, social networks and network science.
 
 Here is my Curriculum Vitae ([English](), [Chinese]()).
 
