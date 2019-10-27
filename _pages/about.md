@@ -26,9 +26,7 @@ Here is my Curriculum Vitae ([English](../files/CV(English).pdf), [Chinese](../f
 ## Publications
 
 **Nearly Linear Time Algorithm for Mean Hitting Times of Random Walks on a Graph.**
-
 <u>Zuobai Zhang</u>, Wanyue Xu, Zhongzhi Zhang
-
 To appear in *ACM International Conference on Web Search and Data Mining (WSDM) 2020*
 
 ## HONORS & AWARDS
