@@ -23,6 +23,14 @@ Here is my Curriculum Vitae ([English](../files/CV(English).pdf), [Chinese](../f
 - **[Oct 12, 2019]** Got one paper accpeted by WSDM2020! See you in Houston!
 - **[Sep 29, 2019]** Obtained the Chinese National Scholarship this year!
 
+## Publications
+
+**Nearly Linear Time Algorithm for Mean Hitting Times of Random Walks on a Graph.**
+
+<u>**Zuobai Zhang**</u>, Wanyue Xu, Zhongzhi Zhang
+
+To appear in *WSDM 2020*
+
 ## HONORS & AWARDS
 
 - **Chinese National Scholarship**(Top 1%), *2019*
