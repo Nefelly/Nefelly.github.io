@@ -10,7 +10,7 @@ redirect_from:
 
 I am  a junior student at the school of Computer Science at Fudan University, China. Currently, I am ranked as the 1st out of 145 students in the department with GPA 3.92 / 4.00(Major GPA: 4.00 / 4.00) and  I'm a member of Shanghai Key Laboratory of Intelligent Information Processing, advised by [Prof. Zhongzhi Zhang](http://homepage.fudan.edu.cn/zhangzz/). My research interests include graph algorithms, social networks and network science.
 
-Here is my Curriculum Vitae ([English](../files/CV(English).pdf), [Chinese](../files/CV(Chinese))).
+Here is my Curriculum Vitae ([English](../files/CV(English).pdf), [Chinese](../files/CV(Chinese).pdf)).
 
 
 ## EDUCATION
@@ -27,9 +27,9 @@ Here is my Curriculum Vitae ([English](../files/CV(English).pdf), [Chinese](../f
 
 **Nearly Linear Time Algorithm for Mean Hitting Times of Random Walks on a Graph.**
 
-<u>**Zuobai Zhang**</u>, Wanyue Xu, Zhongzhi Zhang
+<u>Zuobai Zhang</u>, Wanyue Xu, Zhongzhi Zhang
 
-To appear in *WSDM 2020*
+To appear in *ACM International Conference on Web Search and Data Mining (WSDM) 2020*
 
 ## HONORS & AWARDS
 
