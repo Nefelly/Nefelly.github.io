@@ -19,14 +19,14 @@ Here is my Curriculum Vitae ([English](../files/CV(English).pdf), [Chinese](../f
 
 ## RECENT NEWS
 
-- **[Oct 29, 2019]** Passed the GRE test with the unofficial score 162(V)+169(Q)+4.0(AW)!
+- **[Oct 29, 2019]** Passed the GRE test with the score 162(V)+169(Q)+4.0(AW)!
 - **[Oct 12, 2019]** Got one paper accpeted by WSDM2020! See you in Houston!
 - **[Sep 29, 2019]** Obtained the Chinese National Scholarship this year!
 
 ## HONORS & AWARDS
 
 - **Chinese National Scholarship**(Top 1%), *2019*
-- **Chun Tsung Scholar Program**, Fudan’s Undergraduate Research Opportunities Program, *2019*
+- **Chun Tsung Scholar Program**, FDUROP, *2019*
 - **Chinese National Scholarship**(Top 1%), *2018*
 - **Gold Medal**, ACM-ICPC Asia Regional Contest EC-Final, *2017*
 - **Gold Medal**, ACM-ICPC Asia Regional Contest Qingdao Site, *2017*
