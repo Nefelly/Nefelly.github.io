@@ -19,7 +19,7 @@ Here is my Curriculum Vitae ([English](../files/CV(English).pdf), [Chinese](../f
 
 ## RECENT NEWS
 
-- **[Oct 20, 2019]** Passed the GRE test with the unofficial score 162(V)+169(Q)!
+- **[Oct 29, 2019]** Passed the GRE test with the unofficial score 162(V)+169(Q)+4.0(AW)!
 - **[Oct 12, 2019]** Got one paper accpeted by WSDM2020! See you in Houston!
 - **[Sep 29, 2019]** Obtained the Chinese National Scholarship this year!
 
