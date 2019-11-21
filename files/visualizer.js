@@ -1,7 +1,7 @@
 'use strict'
 // Initalize renderer
 var renderer = new THREE.WebGLRenderer({antialias:true});
-renderer.setSize( window.innerWidth * 0.5, window.innerHeight * 0.5);
+renderer.setSize( window.innerWidth * 0.7, window.innerHeight * 0.7);
 
 if (window.innerWidth > 800) {
     renderer.shadowMap.enabled = true;
@@ -15,7 +15,7 @@ window.addEventListener('resize', onWindowResize, false);
 function onWindowResize() {
     camera.aspect = window.innerWidth / window.innerHeight;
     camera.updateProjectionMatrix();
-    renderer.setSize( window.innerWidth * 0.5, window.innerHeight * 0.5);
+    renderer.setSize( window.innerWidth * 0.7, window.innerHeight * 0.7);
 }
 
 // Set camera
