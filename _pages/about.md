@@ -19,12 +19,16 @@ Here is my Curriculum Vitae ([English](../files/CV(English).pdf), [Chinese](../f
 
 ## RECENT NEWS
 
+- **[Jan 18, 2020]** Obtained the SenseTime Scholarship (29 undergrads from China)!
+- **[Jan 10, 2020]** Our paper was accepted by WWW2020!
+- **[Jan 7, 2020]** One paper was accepted by TCYB as the first author!
 - **[Oct 29, 2019]** Passed the GRE test with the score 162(V)+169(Q)+4.0(AW)!
 - **[Oct 12, 2019]** Got one paper accpeted by WSDM2020! See you in Houston!
 - **[Sep 29, 2019]** Obtained the Chinese National Scholarship this year!
 
 ## HONORS & AWARDS
 
+- **SenseTime Scholarship**(29 undergrads from China), *2020*
 - **Chinese National Scholarship**(Top 1%), *2019*
 - **Chun Tsung Scholar Program**, FDUROP, *2019*
 - **Chinese National Scholarship**(Top 1%), *2018*
