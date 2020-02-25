@@ -23,15 +23,15 @@ Here is my Curriculum Vitae ([English](../files/Resume.pdf)).
 - **Outstanding students at Fudan University**, *Oct.2019*
 - **Second Prize of the Scholarship at Fudan University**, *Oct.2018*
 - **Outstanding students at Fudan University**, *Oct.2018*
-- **Hhctea Freshman Scholarship **, *Nov.2017*
+- **Hhctea Freshman Scholarship**, *Nov.2017*
 
 ## Research Experience
 
-- **FudanNLP**, Advisor:Prof. [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html), *Sept.2019 - present*
+- **FudanNLP**, Fudan University, \nAdvisor : Prof. [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html), *Sept.2019 - present*
 
 ## Out-of-School Curriculum
 
-- **Robotics and Artificial Intelligence**, Imperial College London, Advisor:Prof. Guangzhong Yang, *Jul.2019 - Aug.2019*
+- **Robotics and Artificial Intelligence**, Imperial College London, \nAdvisor : Prof. Guangzhong Yang, *Jul.2019 - Aug.2019*
 
 ## Internship
 
