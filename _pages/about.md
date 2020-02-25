@@ -27,7 +27,7 @@ Here is my Curriculum Vitae ([English](../files/Resume.pdf)).
 
 ## Research Experience
 
-- **FudanNLP**, Fudan University, Advisor : Prof. [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html), *Sept.2019 - present*
+- **FudanNLP**, Fudan University, Advisor : [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html), *Sept.2019 - present*
 
 ## Out-of-School Curriculum
 
