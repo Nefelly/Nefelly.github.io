@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zuobai Zhang (张作柏)"
+title                    : "Xintao Wang (王鑫涛)"
 title_separator          : "-"
-name                     : &name "Zuobai Zhang"
-description              : &description "A second-year student from Fudan University"
-url                      : https://oxer11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xintao Wang"
+description              : &description "A third-year student from Fudan University"
+url                      : https://Nefelly.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "oxer11/oxer11.github.io"
+repository               : "Nefelly/Nefelly.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zuobai Zhang"
+  name             : "Xintao Wang"
   avatar           : "profile.jpeg"
   bio              : "A junior student from Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "zbzhang17@fudan.edu.cn"
+  email            : "17307130015@fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Oxer11"
+  github           : "Nefelly"
   google_plus      :
   keybase          :
   instagram        :
