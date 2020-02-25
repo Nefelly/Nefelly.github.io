@@ -27,11 +27,11 @@ Here is my Curriculum Vitae ([English](../files/Resume.pdf)).
 
 ## Research Experience
 
-- **FudanNLP**, Fudan University, \nAdvisor : Prof. [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html), *Sept.2019 - present*
+- **FudanNLP**, Fudan University, Advisor : Prof. [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html), *Sept.2019 - present*
 
 ## Out-of-School Curriculum
 
-- **Robotics and Artificial Intelligence**, Imperial College London, \nAdvisor : Prof. Guangzhong Yang, *Jul.2019 - Aug.2019*
+- **Robotics and Artificial Intelligence**, Imperial College London, Advisor : Prof. Guangzhong Yang, *Jul.2019 - Aug.2019*
 
 ## Internship
 
