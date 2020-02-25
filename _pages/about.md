@@ -19,11 +19,11 @@ Here is my Curriculum Vitae ([English](../files/Resume.pdf)).
 
 ## HONORS & AWARDS
 
-- **Huawei Scholarship**(First Prize of the Scholarship at Fudan University , Top 3%), *Oct.2019*
+- **Huawei Scholarship** (First Prize of the Scholarship at Fudan University , Top 3%), *Oct.2019*
 - **Outstanding students at Fudan University**, *Oct.2019*
 - **Second Prize of the Scholarship at Fudan University**, *Oct.2018*
 - **Outstanding students at Fudan University**, *Oct.2018*
-- **Hhctea Freshman Scholarship**,( Top 7% ) *Nov.2017*
+- **Hhctea Freshman Scholarship** ( Top 7% ),*Nov.2017*
 
 ## Research Experience
 
