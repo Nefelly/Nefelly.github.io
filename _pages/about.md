@@ -17,23 +17,22 @@ Here is my Curriculum Vitae ([English](../files/Resume.pdf)).
 
 - **B.S. in Computer Science**, [Fudan University](http://www.cs.fudan.edu.cn/), 2017 - present
 
-## RECENT NEWS
-
-- **[Jan 18, 2020]** Obtained the SenseTime Scholarship (29 undergrads from China)!
-- **[Jan 10, 2020]** Our paper was accepted by WWW2020!
-- **[Jan 7, 2020]** One paper was accepted by TCYB as the first author!
-- **[Oct 29, 2019]** Passed the GRE test with the score 162(V)+169(Q)+4.0(AW)!
-- **[Oct 12, 2019]** Got one paper accpeted by WSDM2020! See you in Houston!
-- **[Sep 29, 2019]** Obtained the Chinese National Scholarship this year!
-
 ## HONORS & AWARDS
 
-- **SenseTime Scholarship**(29 undergrads from China), *2020*
-- **Chinese National Scholarship**(Top 1%), *2019*
-- **Chun Tsung Scholar Program**, FDUROP, *2019*
-- **Chinese National Scholarship**(Top 1%), *2018*
-- **Gold Medal**, ACM-ICPC Asia Regional Contest EC-Final, *2017*
-- **Gold Medal**, ACM-ICPC Asia Regional Contest Qingdao Site, *2017*
-- **Silver Medal**, National Olympiad in Informatics, National Finals, *2016*.
-- **Gold Medal**, Winter Camp of National Olympiad in Informatics, *2016*.
-- **First Prize(2nd place)**, National Olympiad in Informatics, Shandong Division, *2015*.
+- **Huawei Scholarship**(First Prize of the Scholarship at Fudan University , Top 3%), *Oct.2019*
+- **Outstanding students at Fudan University**, *Oct.2019*
+- **Second Prize of the Scholarship at Fudan University**, *Oct.2018*
+- **Outstanding students at Fudan University**, *Oct.2018*
+- **Hhctea Freshman Scholarship **, *Nov.2017*
+
+## Research Experience
+
+- **FudanNLP**, Advisor:Prof. [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html), *Sept.2019 - present*
+
+## Out-of-School Curriculum
+
+- **Robotics and Artificial Intelligence**, Imperial College London, Advisor:Prof. Guangzhong Yang, *Jul.2019 - Aug.2019*
+
+## Internship
+
+- **CIB Fund Management Co.,Ltd.**, Transaction Department, *Jul.2018 - Aug.2018*
