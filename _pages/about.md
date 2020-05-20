@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior student at the school of Computer Science at Fudan University, China. Currently, I am ranked as the 10th out of 145 students in the department with GPA 3.70 / 4.00(Major GPA: 3.84 / 4.00) and  I'm a member of FudanNLP (Fudan Natural Language Processing), advised by [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html). My research interests focus on machine learning.
+I am a junior student at the school of Computer Science at Fudan University, China. Currently, I am ranked as the 10th out of 161 students in the department with GPA 3.70 / 4.00(Major GPA: 3.84 / 4.00) and  I'm a member of FudanNLP (Fudan Natural Language Processing), advised by [Prof. Xipeng Qiu](https://xpqiu.github.io/en.html). My research interests focus on machine learning.
 
 Here is my Curriculum Vitae ([English](../files/CV(English).pdf), [Chinese](../files/CV(Chinese).pdf)).
 
